@@ -1,0 +1,4 @@
+flask
+requests
+beautifulsoup4
+pypdf   # optional: only for reading PDF invoices

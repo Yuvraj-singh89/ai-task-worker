@@ -1,0 +1,7 @@
+INVOICE INV-1077
+From: Acme Corp, 14 Market Rd
+Invoice Date: 15 September 2026
+Items: Annual support plan ........ $1,100.00
+       Onboarding workshop ........ $150.50
+Total Amount Due: $1,250.50
+Payment due: 15 October 2026

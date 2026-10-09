@@ -1,0 +1,5 @@
+INVOICE  #INV-1041
+Vendor: Acme Corp
+Invoice Date: 2026-08-03
+Due Date: 2026-09-02
+Total Amount Due: $980.00

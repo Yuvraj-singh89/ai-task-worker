@@ -1,0 +1,4 @@
+Acme Corp   Invoice INV-1063
+Invoice Date: 2026-09-01
+Due Date: 2026-10-01
+Total Amount Due: $1,100.00

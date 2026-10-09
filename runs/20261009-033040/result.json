@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "summary": "Found the latest invoice from Acme Corp (dated 2026-09-15 from scan_003) with amount $1,250.50 and due date 2026-10-15, and successfully entered it into the Northwind Finance Portal.",
+  "verification": "all claims confirmed on the live system",
+  "steps": 20,
+  "memory": {
+    "scan_001": "Vendor: Acme Corp, Date: 2026-08-03, Due: 2026-09-02, Amount: 980.00",
+    "scan_003": "Vendor: Acme Corp, Date: 2026-09-15, Due: 2026-10-15, Amount: 1250.50",
+    "scan_005": "Vendor: Acme Corp, Date: 2026-09-01, Due: 2026-10-01, Amount: 1100.00"
+  }
+}
